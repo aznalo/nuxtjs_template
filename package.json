@@ -1,5 +1,15 @@
 {
-	"name": "blog",
+	"name": "template",
+	"version": "1.0.0",
+	"description": "Nuxtjs Template",
+	"repository": {
+		"type": "git",
+		"url": "git+ssh://git@github.com/aznalo/nuxtjs_template"
+	},
+	"author": "Plata <info@plata-syv.com> (https://github.com/aznalo/)",
+	"homepage": "http://www.plata-syv.com",
+	"license": "MIT",
+
 	"scripts": {
 		"dev": "nuxt"
 	},
